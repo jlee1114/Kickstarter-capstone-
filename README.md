@@ -34,8 +34,8 @@ The preprocessed data will only have the features that I am interested in analyz
 
 I decided to conduct an exploratory analysis of these projects. This included looking at categories, goal/pledged amount, and duration based on their success rate and failure rate. The dataset included these following features:
 
-| Columns                |
-| :---               --- |
+| Columns           |     |
+| :---              |--- |
 | id                     | 
 | name                   | 
 | country                |
