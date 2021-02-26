@@ -32,9 +32,26 @@ The main questions that I am interested in answering are:
 The first step was to clean the raw data. Since the data is raw as it gets, it is not cleaned at all with 217,213 entries and 50+ features for each entry. The dataset comes in at about 2.27Gbs.
 The preprocessed data will only have the features that I am interested in analyzing and I will only be analyzing projects from the US. 
 
-I decided to conduct an exploratory analysis of these projects. This included looking at categories, goal/pledged amount, and duration based on their success rate and failure rate. The dataset looked like: 
+I decided to conduct an exploratory analysis of these projects. This included looking at categories, goal/pledged amount, and duration based on their success rate and failure rate. The dataset included these following features:
 
-![Preview]('preview')
+| Columns                |
+| :---               --- |
+| id                     | 
+| name                   | 
+| country                |
+| backers_count          |
+| currency               | 
+| deadline               | 
+| goal                   | 
+| launched_at            | 
+| pledged                | 
+| category               |
+| sub_category           |
+| spotlight              |
+| duration               |
+| fr                     |
+
+
 
 
 ## Needs of this project
